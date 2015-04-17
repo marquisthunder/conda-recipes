@@ -1,0 +1,16 @@
+package:
+  name: yaml-cpp
+  version: 0.5.2
+
+requirements:
+  build:
+    - cmake
+
+source:
+  fn: yaml-cpp-0.5.2.tar.gz
+  url: https://github.com/jbeder/yaml-cpp/archive/release-0.5.2.tar.gz
+
+about:
+  home: https://github.com/jbeder/yaml-cpp
+  license: BSD
+  summary: 'Yasm is a complete rewrite of the NASM assembler under the "new" BSD License'

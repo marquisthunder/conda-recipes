@@ -1,0 +1,21 @@
+package:
+  name: libsndfile
+  version: 1.0.25
+
+source:
+  fn: libsndfile-1.0.25.tar.gz
+  url: http://www.mega-nerd.com/libsndfile/files/libsndfile-1.0.25.tar.gz
+  md5: e2b7bb637e01022c7d20f95f9c3990a2
+
+build:
+  number: 0
+
+requirements:
+  build:
+
+test:
+  commands:
+
+about:
+  home: http://www.mega-nerd.com/libsndfile
+  license:  GPL
